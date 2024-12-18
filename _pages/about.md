@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: AI researcher, entrepreneur, wine enthusiast, occasional blogger.
-header_image: og_image_cypress_vgogh_scaled.webp
+header_image: /assets/img/og_image_cypress_vgogh_scaled.webp
 
 profile:
   align: right
