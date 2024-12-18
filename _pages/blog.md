@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 2
 pagination:
   enabled: true
   collection: posts
@@ -22,10 +22,16 @@ pagination:
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
-
-  <div class="header-bar">
+  <div class="header-bar" style="margin-top: -1rem; padding-bottom: 2rem;">
+    <img
+        src="/assets/img/og_image_cypress_vgogh_scaled.webp"
+        alt="Header Image"
+        style="position: absolute; top: 0px; left: 50%; transform: translateX(-50%); width: 100%; height: 100%; object-fit: cover; object-position: bottom; z-index: -1;"
+    />
+    <div
+        style="position: absolute; top: 0px; left: 50%; transform: translateX(-50%); width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.25); z-index: -1;"/>
     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2 style="color: white; padding: 0 2em;">{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 

@@ -514,6 +514,7 @@ footer.sticky-bottom {
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 3rem;
+  position: relative;
 
   h1 {
     color: var(--global-theme-color);
@@ -557,6 +558,10 @@ footer.sticky-bottom {
     padding-top: 2rem;
     padding-bottom: 2rem;
 
+    &:last-child {
+      border-bottom: none;
+    }
+
     .post-meta {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
@@ -589,6 +594,7 @@ footer.sticky-bottom {
   .page-item {
     .page-link {
       color: var(--global-text-color);
+      padding: 0.75rem 1.15rem;
 
       &:hover {
         color: $black-color;
