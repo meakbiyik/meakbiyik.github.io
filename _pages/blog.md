@@ -22,6 +22,7 @@ pagination:
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
+
   <div class="header-bar" style="margin-top: -1rem; padding-bottom: 2rem;">
     <img
         src="/assets/img/og_image_cypress_vgogh_scaled.webp"
