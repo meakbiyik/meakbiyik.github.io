@@ -434,6 +434,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Blog
+.blog-header-img {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom;
+  z-index: -1;
+}
+
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
