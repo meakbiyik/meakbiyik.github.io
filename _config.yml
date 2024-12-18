@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Eren
 last_name: Akbiyik
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Occasional blogger and wine enthusiast. ML Engineer. Co-Founder of Showzone. M.Sc. ETH Zürich
+  AI researcher, entrepreneur, wine enthusiast, occasional blogger.
 footer_text: >
   Made with <i class="fas fa-heart" aria-hidden="true"></i> in Zürich.
 keywords: art, wine, machine-learning, data-science, software-engineering, entrepreneurship
