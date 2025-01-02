@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar" style="margin-top: -1rem; padding-bottom: 2rem;">
-    {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-    {% include figure.liquid loading="eager" path="assets/img/og_image_cypress_vgogh_scaled.webp" sizes=sizes alt="The painting titled 'Wheat Field with Cypresses' by Van Gogh" class="blog-header-img" %}
+    {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.8}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+    {% include figure.liquid loading="eager" path="assets/img/og_image_cypress_vgogh_scaled.jpg" sizes=sizes alt="The painting titled 'Wheat Field with Cypresses' by Van Gogh" class="blog-header-img" cache_bust=true %}
     <div
         class="blog-header-img"
         style="background-color: rgba(0, 0, 0, 0.25); z-index: -1;"/>
