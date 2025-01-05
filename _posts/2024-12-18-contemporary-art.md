@@ -5,7 +5,10 @@ date: 2024-10-20 15:09:00
 description: A discussion on contemporary art's deliberate inaccessibility versus its inherent sensitivity.
 tags: contemporary-art
 categories: art
+thumbnail: assets/img/blog/unny066l.jpg
 ---
+
+{% include figure.liquid loading="eager" path="assets/img/blog/unny066l.jpg" caption="\"Guernica\" from Picasso. In case contemporary artists need some inspiration." class="img-fluid rounded z-depth-1" %}
 
 It is hard for an average person to connect with contemporary art. I had convinced myself in a theory of an "inside joke" among artists: not that they create ridiculous imagery, but they challenge themselves and each other to explore the boundaries of certain artistic dimensions. Consequently, for those who are far removed from such boundaries, the works remain indistinct. And it follows that contemporary art should not be commonplace for common people, but should be provided, in free but separate format, for artists themselves.
 
