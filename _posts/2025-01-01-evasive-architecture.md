@@ -1,8 +1,8 @@
 ---
 layout: post
-title: On the unsightly science of architecture
+title: The unsightly science of architecture
 date: 2025-01-01 00:09:00
-description: Exploring evasiveness in architecture and other artistic fields.
+description: Evasiveness in architecture and other artistic fields.
 tags: architecture, art, brutalism, evasive-architecture
 categories: architecture
 thumbnail: assets/img/blog/photo_2025-01-01_17-25-42.jpg

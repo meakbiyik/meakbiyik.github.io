@@ -1,8 +1,8 @@
 ---
 layout: post
-title: On the enduring dislike of contemporary art
+title: The enduring dislike of contemporary art
 date: 2024-10-20 15:09:00
-description: A discussion on contemporary art's deliberate inaccessibility versus its inherent sensitivity.
+description: Contemporary art's deliberate inaccessibility versus its inherent sensitivity.
 tags: contemporary-art
 categories: art
 thumbnail: assets/img/blog/unny066l.jpg
