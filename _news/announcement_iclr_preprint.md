@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-13 16:11:00-0400
+date: 2025-01-27 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-New work on multimodal egocentric trajectory prediction is now available as a preprint.
+New work on multimodal egocentric trajectory prediction is accepted to ICML 2025.
