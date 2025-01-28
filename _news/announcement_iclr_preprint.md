@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New work on multimodal egocentric trajectory prediction is accepted to ICML 2025.
+New work on multimodal egocentric trajectory prediction is accepted to ICLR 2025.
