@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three pillars of love
-date: 2025-01-01 00:09:00
+date: 2025-01-19 00:09:00
 description: An analysis of lasting connections
 tags: film, arthouse, love, art
 categories: art
