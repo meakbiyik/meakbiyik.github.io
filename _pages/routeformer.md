@@ -100,6 +100,7 @@ nav: false
         </div>
     </div>
     </div>
+
 </section>
 
 <div class="columns is-centered has-text-centered">
