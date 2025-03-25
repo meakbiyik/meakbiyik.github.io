@@ -219,17 +219,6 @@ a:hover {
                     <span>Code</span>
                 </a>
                 </span>
-                <!-- Video Link. -->
-                <!--               <span class="link-block">
-            <a href="https://youtu.be/YB1_xKlueUI"
-                class="external-link button is-normal is-rounded is-dark">
-                    target="_blank"
-                <span class="icon">
-                    <i class="fab fa-youtube"></i>
-                </span>
-                <span>Video</span>
-            </a>
-            </span> -->
             </div>
             </div>
         </div>
@@ -240,11 +229,7 @@ a:hover {
 </section>
 
 <div class="columns is-centered has-text-centered">
-    <div class="column is-four-fifths">
-    <div class="diagram">
-        {% include figure.liquid loading="eager" path="assets/img/framework.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    </div>
+  {% include video.liquid path="assets/video/Paper-Presentation-ICLR2025_louder.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 </div>
 
 <section class="section">
@@ -262,6 +247,14 @@ a:hover {
     </div>
     </div>
 </section>
+
+<div class="columns is-centered has-text-centered">
+    <div class="column is-four-fifths">
+    <div class="diagram">
+        {% include figure.liquid loading="eager" path="assets/img/framework.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    </div>
+</div>
 
 <section class="section" id="BibTeX">
     <div class="is-max-desktop content">
