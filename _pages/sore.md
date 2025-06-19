@@ -220,7 +220,7 @@ a:hover {
                 <!-- PDF Link. -->
                 <span class="link-block">
                 <a
-                    href="https://openreview.net/forum?id=RCW2ztrTTO"
+                    href="/assets/pdf/sore.pdf"
                     class="external-link button is-normal is-rounded is-dark"
                     target="_blank"
                 >
