@@ -10,7 +10,7 @@ thumbnail: assets/img/blog/post-2-1.jpg
 
 {% include figure.liquid loading="eager" path="assets/img/blog/post-2-1.jpg" caption="Campo Hermoso." class="img-fluid rounded z-depth-1" %}
 
-I got acquainted with this fantastic producer from the similarly-named coffee subregion of Colombia through a filter coffee I had in Zürich. Our local roastery that packaged these beans, Jack LeFleur, had made a couple of fantastic roasts lately, but their Campo Hermoso pink bourbon is probably the highlight of their selection: intense strawberry and red berries, great body, and length.
+I got acquainted with this fantastic producer from the similarly-named coffee subregion of Colombia through a filter coffee I had in Zürich. Our local roastery that packaged these beans, Jack LeFleur, had made a couple of fantastic roasts lately, but their Campo Hermoso pink bourbon is probably the highlight of their selection: intense strawberry and red berries, great body and length.
 
 After having it as a filter coffee, I bought a 125g bag and started experimenting with it at home. Despite my best efforts, I simply could not make an espresso with it that was drinkable by itself. My Mini Gaggia delivered stable but nevertheless either sour or bitter notes, and even the most balanced pull was quite aggressive.
 
