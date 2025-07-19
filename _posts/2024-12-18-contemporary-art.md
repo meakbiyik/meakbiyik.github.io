@@ -6,6 +6,7 @@ description: Contemporary art's deliberate inaccessibility versus its inherent s
 tags: contemporary-art
 categories: art
 thumbnail: assets/img/blog/unny066l.jpg
+substack_url: https://meakbiyik.substack.com/p/on-the-enduring-dislike-of-contemporary?utm_source=meakbiyik&utm_medium=web&utm_content=post
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/blog/unny066l.jpg" caption="\"Guernica\" from Picasso. In case contemporary artists need some inspiration." class="img-fluid rounded z-depth-1" %}

@@ -899,7 +899,7 @@ html.transition *:after {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     padding-top: 0.25rem;
-    padding-bottom: 1rem;
+    padding-bottom: 0rem;
 
     a {
       color: var(--global-text-color-light);
@@ -1323,3 +1323,5 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+@import "custom";

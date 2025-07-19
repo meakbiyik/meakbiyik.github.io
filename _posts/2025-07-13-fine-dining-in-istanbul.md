@@ -6,6 +6,7 @@ description: Making the best out of a transfer flight, I recently had an insight
 tags: food, wine, turkish cuisine, istanbul
 categories: food
 thumbnail: assets/img/blog/post-1-1.jpg
+substack_url: https://meakbiyik.substack.com/p/fine-dining-in-istanbul?utm_source=meakbiyik&utm_medium=web&utm_content=post
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/blog/post-1-1.jpg" caption="Cats." class="img-fluid rounded z-depth-1" %}

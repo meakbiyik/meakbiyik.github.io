@@ -6,6 +6,7 @@ description: Evasiveness in architecture and other artistic fields.
 tags: architecture, art, brutalism, evasive-architecture
 categories: architecture
 thumbnail: assets/img/blog/photo_2025-01-01_17-25-42.jpg
+substack_url: https://meakbiyik.substack.com/p/architects-hate-this-one-question?utm_source=meakbiyik&utm_medium=web&utm_content=post
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/blog/photo_2025-01-01_17-25-42.jpg" caption="Kornhaus over the Limmat river, Zürich. The grey middle finger." class="img-fluid rounded z-depth-1" %}

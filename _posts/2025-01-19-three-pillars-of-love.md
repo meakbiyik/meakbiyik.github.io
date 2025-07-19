@@ -5,6 +5,7 @@ date: 2025-04-24 00:09:00
 description: An analysis of lasting connections
 tags: love, art
 categories: art
+substack_url: https://meakbiyik.substack.com/p/three-pillars-of-love?utm_source=meakbiyik&utm_medium=web&utm_content=post
 ---
 
 Our emotions often surge at first sight. A dress in a window, a piece of furniture in a shop, or even a book's binding can trigger an immediate response. Yet such feelings inevitably fade with time -- there is no love at first sight that persists unchanged.

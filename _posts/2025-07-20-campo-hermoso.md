@@ -6,6 +6,7 @@ description: "Abolishing pressure from coffee."
 tags: coffee
 categories: food
 thumbnail: assets/img/blog/post-2-1.jpg
+substack_url: https://meakbiyik.substack.com/p/campo-hermoso-and-what-to-do-with?utm_source=meakbiyik&utm_medium=web&utm_content=post
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/blog/post-2-1.jpg" caption="Campo Hermoso." class="img-fluid rounded z-depth-1" %}
