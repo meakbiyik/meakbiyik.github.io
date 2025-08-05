@@ -19,4 +19,4 @@ The disconnect between the artistic development and public fancy arguably stems 
 
 This is **not** an argument to stop public funding, or to supervise art. Neither should we banish contemporary art from museums. However, artists need better access to the psyche of today's public, and public museums, if they are to host their art, should expect such understanding.
 
-[^1]: An important article on the topic from Michel Bettane: <https://www.mybettanedesseauve.fr/2024/07/15/la-bourgogne-limpasse-et-lissue>
+[^1]: Not art for art, but art for other artists
