@@ -23,8 +23,14 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
+      # add user-agent to avoid 403 errors
+      xml = HTTParty.get(src['rss_url'], headers: { 'User-Agent' => 'curl/7.54' }).body
       return if xml.nil?
+      # TODO: fix this or regularly call curl https://meakbiyik.substack.com/feed > substack.rss
+      if xml.include?('<!DOCTYPE html>') 
+        puts "...using local substack.rss due to fetch error"
+        xml = File.read('./substack.rss')
+      end
       feed = Feedjira.parse(xml)
       process_entries(site, src, feed.entries)
     end
