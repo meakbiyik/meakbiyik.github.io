@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 AI researcher, entrepreneur, wine enthusiast, occasional blogger.
 
-I think about multimodal AI, human intent modeling, and multi-agent learning using game-theoretical tools. Currently working towards superforecasting.
+I think about multimodal AI, human intent modeling, and multi-agent learning using game-theoretical tools. Currently working on drug discovery research.
 
 Otherwise find me organizing wine tastings, reading Ursula Le Guin, and writing about art, wine, and other things.
 
